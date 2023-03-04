@@ -16,7 +16,7 @@ class Program
 
 
 
-		int InputInt(string prompt)
+		int InputInt(string prompt)// i see you are here.
 		{
 			Console.WriteLine(prompt);
 			ConsoleColor color = Console.ForegroundColor;
@@ -415,12 +415,13 @@ public class Place
 		peopleHere = PeopleHere;
 		objects = Objects;
 
-	}
+	}//this did not work.
 	public string name { get; set; }
 	public int id { get; set; }
 	public List<int> peopleHere = new();
 	public List<Object> objects = new();
 }
+
 public class Person
 {
 	public Person(int Id, int Age, string Name, string SmallName, List<VoiceLine> VoiceLines)
@@ -742,8 +743,8 @@ public class Murderer
         default://this is unreachable. but we got that exception... Replit..? is there something you haven't told us?
 					throw new NotImplementedException();}
        if(!inroom){break;}}
-      }
-
+      }//discord?
+void JosephEntranceHall
     
     
 	}
