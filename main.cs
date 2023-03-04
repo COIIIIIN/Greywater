@@ -749,7 +749,7 @@ public class Murderer
 	}
 	void JosephEntranceHall()
 	{
-	 	
+	 
 	}
 }
 #region Comments
