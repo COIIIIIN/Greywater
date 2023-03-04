@@ -744,11 +744,14 @@ public class Murderer
 					throw new NotImplementedException();}
        if(!inroom){break;}}
       }//discord?
-void JosephEntranceHall
     
     
 	}
- }
+	void JosephEntranceHall()
+	{
+	 	
+	}
+}
 #region Comments
 //extra info
 //Onomatopoeia marked with *[Onomatopoeia here]* ans has green color if the noice comes from a non human source (color not shown in example) like this: 
